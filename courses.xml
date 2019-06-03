@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<courses>     
+   <course category="JAVA">  
+      <title lang="en">Learn Java in 3 Months.</title>  
+      <trainer>Sonoo Jaiswal</trainer>  
+      <year>2008</year>  
+      <fees>10000.00</fees>  
+   </course>    
+    <course category="Dot Net">  
+      <title lang="en">Learn Dot Net in 3 Months.</title>  
+      <trainer>Vicky Kaushal</trainer>  
+      <year>2008</year>  
+      <fees>10000.00</fees>  
+   </course>  
+    <course category="C">  
+      <title lang="en">Learn C in 2 Months.</title>  
+      <trainer>Ramesh Kumar</trainer>  
+      <year>2014</year>  
+      <fees>3000.00</fees>  
+   </course>  
+    <course category="XML">  
+      <title lang="en">Learn XML in 2 Months.</title>  
+      <trainer>Ajeet Kumar</trainer>  
+      <year>2015</year>  
+      <fees>4000.00</fees>  
+   </course>    
+</courses>  
